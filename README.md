@@ -1,9 +1,6 @@
 # ✨ Aurum — Luxury SaaS Admin Dashboard
 
 <div align="center">
-
-![Aurum Dashboard](https://placehold.co/900x500/0a0b0f/6c63ff?text=Aurum+Dashboard+Preview&font=sora)
-
 <p>
   <strong>A premium, production-ready SaaS admin dashboard built with React, TypeScript, and Tailwind CSS.</strong><br/>
   Featuring a powerful multi-theme system, command palette, interactive charts, and a fully responsive design.
