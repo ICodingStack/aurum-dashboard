@@ -23,12 +23,7 @@
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Dark](https://placehold.co/440x280/0a0b0f/6c63ff?text=Dark+Mode&font=sora) | ![Light](https://placehold.co/440x280/f2f3f8/6c63ff?text=Light+Mode&font=sora) |
-
-| Command Palette | Theme Switcher |
-|-----------------|----------------|
-| ![CMD](https://placehold.co/440x280/111318/6c63ff?text=Command+Palette+⌘K&font=sora) | ![Themes](https://placehold.co/440x280/111318/10b981?text=5+Color+Themes&font=sora) |
-
+| ![Dark Mode](./assets/dark.png) | ![Light Mode](./assets/light.png) |
 ---
 
 ## ✨ Features
